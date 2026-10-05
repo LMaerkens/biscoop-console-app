@@ -1,3 +1,3 @@
 ﻿# biscoop-console-app
 
-![alt text](https://github.com/LMaerkens/biscoop-console-app/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/LMaerkens/biscoop-console-app/blob/main/Schermafbeelding.png?raw=true)
